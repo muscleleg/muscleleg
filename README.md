@@ -1,6 +1,3 @@
-# 발자취
-## 오케스트로
-2022.10~  
 ### 언어  
 ![Static Badge](https://img.shields.io/badge/javascript-yellow?logo=javascript) ![Static Badge](https://img.shields.io/badge/typescript-blue?logo=git)  
 ### 프레임워크  
