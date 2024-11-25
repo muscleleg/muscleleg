@@ -8,6 +8,7 @@
 ### 플랫폼  
 ![Static Badge](https://img.shields.io/badge/Kubernetes-green?logo=kubernetes) 
 ### 도구  
-![Static Badge](https://img.shields.io/badge/Git-black?logo=git)
+![Static Badge](https://img.shields.io/badge/Git-black?logo=git)![Static Badge](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea)
+
 
 
